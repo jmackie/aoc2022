@@ -2,7 +2,7 @@
 
 Different language every day.
 
-- [ ] Day 1
+- [x] [Day 1](./day1) - Bash 🐚
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
@@ -31,7 +31,6 @@ Different language every day.
 <!--
 Languages to choose from...
 
-Bash
 Python
 Erlang
 Julia
