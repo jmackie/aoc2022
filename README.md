@@ -3,7 +3,7 @@
 Different language every day.
 
 - [x] [Day 1](./day1) - Bash 🐚
-- [ ] Day 2
+- [x] [Day 2](./day2) - Erlang ☎️
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
@@ -32,7 +32,6 @@ Different language every day.
 Languages to choose from...
 
 Python
-Erlang
 Julia
 R
 OCaml
