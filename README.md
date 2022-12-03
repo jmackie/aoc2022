@@ -8,7 +8,7 @@ Different language every day.
 - [x] [Day 4](./day4) - Racket 🎾
 - [x] [Day 5](./day5) - Lua 🤏
 - [x] [Day 6](./day6) - Nix 🤷
-- [ ] Day 7
+- [x] [Day 7](./day7) - OCaml 🐪
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
@@ -33,7 +33,6 @@ Languages to choose from...
 
 Python
 R
-OCaml
 ReScript
 PureScript
 Haskell

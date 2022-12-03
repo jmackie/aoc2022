@@ -5,5 +5,6 @@ pkgs.mkShell {
     # julia is broken on aarch64-darwin :(
     racket
     lua5_3
+    ocaml-ng.ocamlPackages_4_14.ocaml
   ];
 }
