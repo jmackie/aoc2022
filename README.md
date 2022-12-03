@@ -4,7 +4,7 @@ Different language every day.
 
 - [x] [Day 1](./day1) - Bash 🐚
 - [x] [Day 2](./day2) - Erlang ☎️
-- [ ] Day 3
+- [x] [Day 3](./day3) - Julia 🔢
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
@@ -32,7 +32,6 @@ Different language every day.
 Languages to choose from...
 
 Python
-Julia
 R
 OCaml
 ReScript
