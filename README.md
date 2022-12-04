@@ -5,7 +5,7 @@ Different language every day.
 - [x] [Day 1](./day1) - Bash 🐚
 - [x] [Day 2](./day2) - Erlang ☎️
 - [x] [Day 3](./day3) - Julia 🔢
-- [ ] Day 4
+- [x] [Day 4](./day4) - Racket 🎾
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
@@ -46,6 +46,5 @@ Lua
 TypeScript (deno)
 Dart
 Idris
-Racket
 F#
 -->
