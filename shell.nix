@@ -4,5 +4,6 @@ pkgs.mkShell {
     erlang
     # julia is broken on aarch64-darwin :(
     racket
+    lua5_3
   ];
 }

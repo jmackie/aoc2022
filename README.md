@@ -6,7 +6,7 @@ Different language every day.
 - [x] [Day 2](./day2) - Erlang ☎️
 - [x] [Day 3](./day3) - Julia 🔢
 - [x] [Day 4](./day4) - Racket 🎾
-- [ ] Day 5
+- [x] [Day 5](./day5) - Lua 🤏
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
@@ -42,7 +42,6 @@ Nix
 Go
 Rust
 Elixir
-Lua
 TypeScript (deno)
 Dart
 Idris
