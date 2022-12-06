@@ -7,7 +7,7 @@ Different language every day.
 - [x] [Day 3](./day3) - Julia 🔢
 - [x] [Day 4](./day4) - Racket 🎾
 - [x] [Day 5](./day5) - Lua 🤏
-- [ ] Day 6
+- [x] [Day 6](./day6) - Nix 🤷
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
@@ -38,7 +38,6 @@ ReScript
 PureScript
 Haskell
 Elm
-Nix
 Go
 Rust
 Elixir
