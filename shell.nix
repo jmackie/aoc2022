@@ -7,5 +7,6 @@ pkgs.mkShell {
     lua5_3
     ocaml-ng.ocamlPackages_4_14.ocaml
     R
+    python311
   ];
 }
