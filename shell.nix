@@ -9,5 +9,6 @@ pkgs.mkShell {
     R
     python311
     ruby
+    dart
   ];
 }

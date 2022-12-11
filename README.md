@@ -12,7 +12,7 @@ Different language every day.
 - [x] [Day 8](./day8) - R 🧮
 - [x] [Day 9](./day9) - Python 🐍
 - [x] [Day 10](./day10) - Ruby 💎
-- [ ] Day 11
+- [x] [Day 11](./day11) - Dart 🎯
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
@@ -39,7 +39,6 @@ Go
 Rust
 Elixir
 TypeScript (deno)
-Dart
 Idris
 F#
 -->
