@@ -11,7 +11,7 @@ Different language every day.
 - [x] [Day 7](./day7) - OCaml 🐪
 - [x] [Day 8](./day8) - R 🧮
 - [x] [Day 9](./day9) - Python 🐍
-- [ ] Day 10
+- [x] [Day 10](./day10) - Ruby 💎
 - [ ] Day 11
 - [ ] Day 12
 - [ ] Day 13

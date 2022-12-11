@@ -8,5 +8,6 @@ pkgs.mkShell {
     ocaml-ng.ocamlPackages_4_14.ocaml
     R
     python311
+    ruby
   ];
 }
