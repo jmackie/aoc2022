@@ -10,5 +10,6 @@ pkgs.mkShell {
     python311
     ruby
     dart
+    scala
   ];
 }

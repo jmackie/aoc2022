@@ -13,7 +13,7 @@ Different language every day.
 - [x] [Day 9](./day9) - Python 🐍
 - [x] [Day 10](./day10) - Ruby 💎
 - [x] [Day 11](./day11) - Dart 🎯
-- [ ] Day 12
+- [x] [Day 12](./day12) - Scala ☕
 - [ ] Day 13
 - [ ] Day 14
 - [ ] Day 15
