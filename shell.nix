@@ -1,4 +1,18 @@
-let pkgs = import ./nixpkgs.nix { }; in
+let
+
+  pkgs = import ./nixpkgs.nix { };
+
+  easy-ps = import
+    (pkgs.fetchFromGitHub {
+      owner = "justinwoo";
+      repo = "easy-purescript-nix";
+      rev = "7a4cb3cd6ca53566ea1675692eab0aa13907ff09";
+      sha256 = "sha256-5KkyNpPakv4xIP2ba0S5GX+dcmd3AcO9kPhwa482BbA=";
+    })
+    {
+      inherit pkgs;
+    };
+in
 pkgs.mkShell {
   nativeBuildInputs = with pkgs.buildPackages; [
     erlang
@@ -11,5 +25,7 @@ pkgs.mkShell {
     ruby
     dart
     scala
+    easy-ps.purs
+    easy-ps.spago
   ];
 }

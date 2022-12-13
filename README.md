@@ -14,7 +14,7 @@ Different language every day.
 - [x] [Day 10](./day10) - Ruby 💎
 - [x] [Day 11](./day11) - Dart 🎯
 - [x] [Day 12](./day12) - Scala ☕
-- [ ] Day 13
+- [x] [Day 13](./day13) - PureScript 🧼
 - [ ] Day 14
 - [ ] Day 15
 - [ ] Day 16
@@ -32,7 +32,6 @@ Different language every day.
 Languages to choose from...
 
 ReScript
-PureScript
 Haskell
 Elm
 Go
