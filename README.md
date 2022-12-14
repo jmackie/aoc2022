@@ -15,6 +15,7 @@ Different language every day.
 - [x] [Day 11](./day11) - Dart 🎯
 - [x] [Day 12](./day12) - Scala ☕
 - [x] [Day 13](./day13) - PureScript 🧼
+- [x] [Day 14](./day14) - Elixir 💧
 - [ ] Day 14
 - [ ] Day 15
 - [ ] Day 16
@@ -36,7 +37,6 @@ Haskell
 Elm
 Go
 Rust
-Elixir
 TypeScript (deno)
 Idris
 F#

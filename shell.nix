@@ -27,5 +27,6 @@ pkgs.mkShell {
     scala
     easy-ps.purs
     easy-ps.spago
+    elixir
   ];
 }
